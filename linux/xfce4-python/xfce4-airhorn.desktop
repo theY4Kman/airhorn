@@ -1,0 +1,13 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Encoding=UTF-8
+Name=Airhorn (Python)
+Comment=Conveniently play airhorn sounds
+Icon=airhorn
+X-XFCE-Unique=false
+X-XFCE-Module=xfce4airhorn
+X-XFCE-Internal=false
+X-XFCE-API=2.0
+X-Python-Venv=/home/they4kman/.virtualenvs/airhorn
+X-Python-Path=/home/they4kman/programming/third-party/airhorn/linux/xfce4-python/src
+X-Python-Module=xfce4_airhorn

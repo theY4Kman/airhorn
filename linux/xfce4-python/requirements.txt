@@ -1,0 +1,5 @@
+pygobject
+Cython
+Pillow
+pulsectl
+py-canberra==0.0.4

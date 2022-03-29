@@ -1,0 +1,7 @@
+*.glade~
+*.swp
+cython_debug/
+dist/
+__pycache__
+*.egg-info
+*.so

@@ -98,7 +98,7 @@ static void
 airhorn_orientation_changed(XfcePanelPlugin *plugin,
                             GtkOrientation orientation,
                             AirhornPlugin *airhorn) {
-    /* change the orienation of the box */
+    /* change the orientation of the box */
     gtk_orientable_set_orientation(GTK_ORIENTABLE(airhorn->hvbox), orientation);
 }
 
